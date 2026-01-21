@@ -1,6 +1,6 @@
 # 7Imagexpng (IW7 Image Converter)
 
-A powerful tool for converting images between **Call of Duty: Infinite Warfare (.iw7Image)** format and standard **PNG** files.
+A simple tool for converting images between **Call of Duty: Infinite Warfare (.iw7Image)** format and standard **PNG** files.
 
 ## Features
 - **Convert PNG to IW7**: Import your custom images into the game format.
